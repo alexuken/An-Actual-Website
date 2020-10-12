@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Alex's Page
 
-You can use the [editor on GitHub](https://github.com/alexuken/An-Example-Site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+`Disclaimer: This page is not meant to discredit the owner, and is simply a "Fan Page".`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There isn't much to this page because this was solely created based on the fact this is the current game I'm grinding/interested in. I'm AR 35 (Adventurer Rank 35) at the moment which I believe is quite decent for a free-to-play player. I'm quite hooked because this game offers more than what comes to eye, it's not like your typical role-playing game where you just follow along the story line and end up endlessly grinding, there's a lot of puzzles & riddles and exploration on your own that needs to be done to enhance the user experience.
 
-### Markdown
+## Genshin Impact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Genshin Impact is a new open world action role-playing game created by Mihoyo that offers a vast magical adventure experience to the traveler. It takes place in the world of Teyvat and features a gacha-game system, featuring a variety of characters with diverse combos & elemental reactions.
 
-```markdown
-Syntax highlighted code block
+![Image of Genshin Impact](https://images5.alphacoders.com/109/thumb-1920-1099191.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Support 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexuken/An-Example-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out the official [Genshin-Impact website](https://genshin.mihoyo.com/en) to get yourself started on your own adventure. 
