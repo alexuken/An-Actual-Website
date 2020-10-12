@@ -10,6 +10,8 @@ Genshin Impact is a new open world action role-playing game created by Mihoyo th
 
 ![Image of Genshin Impact](https://images5.alphacoders.com/109/thumb-1920-1099191.jpg)
 
+![Image of Genshin Impact 2](https://www.pockettactics.com/wp-content/uploads/2020/09/genshin-impact-codes.jpg)
+
 ### Support 
 
 Check out the official [Genshin-Impact website](https://genshin.mihoyo.com/en) to get yourself started on your own adventure. 
